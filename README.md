@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [LingSy](https://face-hook-drab.vercel.app/)
+- 🔭 I’m currently working on [LinkSy](https://face-hook-drab.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://my-arif.vercel.app/](https://my-arif.vercel.app/)
 
